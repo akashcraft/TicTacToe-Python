@@ -23,7 +23,7 @@ Fields already occupied cannot be used again.
 ![image](https://user-images.githubusercontent.com/113077967/189464578-f2cf69d0-effb-4b7f-964c-9fe570719ed4.png)
 
 ## Who can use this?
-Anyone is allowed to download the files or modify the code.  
+Everyone is allowed to download the files or modify the code.  
 However, should you wish to publish this in your socials, please provide appropriate credits.  
 
 You can add this as your description if you like:  
