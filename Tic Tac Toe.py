@@ -292,17 +292,17 @@ while gamemode=='1': #If Single mode was chosen
         check=1
     if [L[12],L[26]]==[ans1,ans1] and '3' in avail and check==0:
         L[40]=ans1
-        avail.remove('7')
+        avail.remove('3')
         flag=1
         check=1
     if [L[24],L[8]]==[ans1,ans1] and '3' in avail and check==0:
         L[40]=ans1
-        avail.remove('7')
+        avail.remove('3')
         flag=1
         check=1
     if [L[36],L[38]]==[ans1,ans1] and '3' in avail and check==0:
         L[40]=ans1
-        avail.remove('7')
+        avail.remove('3')
         flag=1
         check=1
     if [L[12],L[36]]==[ans1,ans1] and '5' in avail and check==0:
