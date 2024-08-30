@@ -22,12 +22,16 @@ Fields already occupied cannot be used again.
   
 ![image](https://user-images.githubusercontent.com/113077967/189464578-f2cf69d0-effb-4b7f-964c-9fe570719ed4.png)
 
-## Who can use this?
-Everyone is allowed to download the files or modify the code.  
-However, should you wish to publish this in your socials, please provide appropriate credits.  
 
-You can add this as your description if you like:  
+## Who can use this?
+You are free to download and edit the source code files however you like.
+Should you wish to publish this in your project or socials, please provide appropriate credits.
+
+You can add this as your references (or description) if you like:
 Source Code: https://github.com/akashcraft/TicTacToe-Python  
 AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
 
-Thanks!
+## Donation
+If you like my work and would like to donate me, I would really appreciate it!<br><br>
+[<img src="https://github.com/user-attachments/assets/2ebd1ec4-0b2c-476d-98d1-267a08e9cd16">](https://www.paypal.com/donate/?business=YFEQJ9D5KR9PW&no_recurring=0&item_name=Thank+you+for+considering+to+donate+me%21+This+way+I+can+keep+developing+more+applications+for+you.&currency_code=CAD)
+
